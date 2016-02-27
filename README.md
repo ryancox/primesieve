@@ -6,7 +6,7 @@ Docker Hub: https://hub.docker.com/r/ryancox/primesieve/
 Usage:
 
 ```
-$ docker run -it ryancox/primesieve:5.6.0 1e6
+$ docker run -it ryancox/primesieve:5.6.0 primesieve 1e6
 Sieve size = 32 kilobytes
 Threads    = 1
 100%
